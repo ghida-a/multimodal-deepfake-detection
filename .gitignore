@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local datasets and media
+data/*
+!data/README.md
+
+*.wav
+*.mp3
+*.m4a
+*.jpg
+*.jpeg
+*.png
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Local configuration
+.env
