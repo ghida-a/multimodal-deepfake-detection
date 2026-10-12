@@ -23,9 +23,7 @@ data/*
 *.wav
 *.mp3
 *.m4a
-*.jpg
-*.jpeg
-*.png
+
 
 # Model weights
 *.pth
