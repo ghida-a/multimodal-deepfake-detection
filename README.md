@@ -548,6 +548,15 @@ multimodal-deepfake-detection/
 │   └── README.md
 │
 ├── screenshots/
+│   ├── cnn-architecture.png
+│   ├── model-evaluation.png
+│   ├── dataset-expansion.png
+│   ├── real-image-prediction.png
+│   ├── fake-image-prediction.png
+│   ├── voice-upload.png
+│   ├── voice-processing.png
+│   ├── real-voice-result.png
+│   └── fake-voice-result.png
 │
 └── docs/
     └── academic-project-report.pdf
